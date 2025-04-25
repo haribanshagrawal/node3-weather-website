@@ -1,4 +1,14 @@
 {
+  "name":"web-server",
+  "version":"1.0.0",
+  "description":"",
+  "main":"index.js",
+  "scripts":{
+    "start":"node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license":"ISC",
   "dependencies": {
     "express": "^5.1.0",
     "handlebars": "^4.7.8",
